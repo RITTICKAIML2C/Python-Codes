@@ -6,7 +6,7 @@ dict = {
 }
 print(dict)
 
-# 2. Access Values 
+# 2. Access Values
 student = {'name' : 'Rittick', 'age' : 18, 'marks' : 85}
 print(student['name'])
 print(student['marks'])
